@@ -1,0 +1,7 @@
+{
+  "name": "WanderWise",
+  "description": "Explore new destinations with AI-powered travel recommendations and edit your travel photos with text prompts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
